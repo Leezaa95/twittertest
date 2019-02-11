@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-ERIKFIL" name="example.NewTest" tests="12" failures="0" timestamp="29 Jan 2019 06:17:52 GMT" time="82.895" errors="0">
+  <testcase name="login" time="3.951" classname="example.NewTest"/>
+  <testcase name="username" time="0.264" classname="example.NewTest"/>
+  <testcase name="password" time="0.111" classname="example.NewTest"/>
+  <testcase name="loginButton" time="7.976" classname="example.NewTest"/>
+  <testcase name="wait1" time="3.004" classname="example.NewTest"/>
+  <testcase name="tweet" time="8.113" classname="example.NewTest"/>
+  <testcase name="tweetButton" time="0.714" classname="example.NewTest"/>
+  <testcase name="wait2" time="2.001" classname="example.NewTest"/>
+  <testcase name="screenshot" time="0.977" classname="example.NewTest"/>
+  <testcase name="dropdown1" time="0.178" classname="example.NewTest"/>
+  <testcase name="wait3" time="0.655" classname="example.NewTest"/>
+  <testcase name="logout" time="1.497" classname="example.NewTest"/>
+</testsuite>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82895" started-at="2019-01-29T14:16:28Z" finished-at="2019-01-29T14:17:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="82895" started-at="2019-01-29T14:16:28Z" finished-at="2019-01-29T14:17:51Z">
+      <class name="example.NewTest">
+        <test-method status="PASS" signature="launchBrowser()" name="launchBrowser" is-config="true" duration-ms="51152" started-at="2019-01-29T14:16:28Z" finished-at="2019-01-29T14:17:19Z">
+        </test-method>
+        <test-method status="PASS" signature="login()" name="login" duration-ms="3951" started-at="2019-01-29T14:17:19Z" finished-at="2019-01-29T14:17:23Z">
+        </test-method>
+        <test-method status="PASS" signature="username()" name="username" duration-ms="264" started-at="2019-01-29T14:17:23Z" finished-at="2019-01-29T14:17:23Z">
+        </test-method>
+        <test-method status="PASS" signature="password()" name="password" duration-ms="111" started-at="2019-01-29T14:17:23Z" finished-at="2019-01-29T14:17:23Z">
+        </test-method>
+        <test-method status="PASS" signature="loginButton()" name="loginButton" duration-ms="7976" started-at="2019-01-29T14:17:23Z" finished-at="2019-01-29T14:17:31Z">
+        </test-method>
+        <test-method status="PASS" signature="wait1()" name="wait1" duration-ms="3004" started-at="2019-01-29T14:17:31Z" finished-at="2019-01-29T14:17:34Z">
+        </test-method>
+        <test-method status="PASS" signature="tweet()" name="tweet" duration-ms="8113" started-at="2019-01-29T14:17:34Z" finished-at="2019-01-29T14:17:42Z">
+        </test-method>
+        <test-method status="PASS" signature="tweetButton()" name="tweetButton" duration-ms="714" started-at="2019-01-29T14:17:42Z" finished-at="2019-01-29T14:17:43Z">
+        </test-method>
+        <test-method status="PASS" signature="wait2()" name="wait2" duration-ms="2001" started-at="2019-01-29T14:17:43Z" finished-at="2019-01-29T14:17:45Z">
+        </test-method>
+        <test-method status="PASS" signature="screenshot()" name="screenshot" duration-ms="977" started-at="2019-01-29T14:17:45Z" finished-at="2019-01-29T14:17:46Z">
+        </test-method>
+        <test-method status="PASS" signature="dropdown1()" name="dropdown1" duration-ms="178" started-at="2019-01-29T14:17:46Z" finished-at="2019-01-29T14:17:46Z">
+        </test-method>
+        <test-method status="PASS" signature="wait3()" name="wait3" duration-ms="655" started-at="2019-01-29T14:17:46Z" finished-at="2019-01-29T14:17:47Z">
+        </test-method>
+        <test-method status="PASS" signature="logout()" name="logout" duration-ms="1497" started-at="2019-01-29T14:17:47Z" finished-at="2019-01-29T14:17:48Z">
+        </test-method>
+        <test-method status="PASS" signature="terminateBrowser()" name="terminateBrowser" is-config="true" duration-ms="2246" started-at="2019-01-29T14:17:48Z" finished-at="2019-01-29T14:17:51Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
